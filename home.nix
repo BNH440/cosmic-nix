@@ -43,8 +43,6 @@
     # (pkgs.writeShellScriptBin "my-hello" ''
     #   echo "Hello, ${config.home.username}!"
     # '')
-    inputs.ocf-paper-genmon-applet.packages.${pkgs.system}.default
-    inputs.ocf-logout-applet.packages.${pkgs.system}.default
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage
