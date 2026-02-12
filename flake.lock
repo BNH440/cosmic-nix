@@ -168,11 +168,11 @@
       },
       "locked": {
         "dir": "pkgs/firefox-addons",
-        "lastModified": 1770350627,
-        "narHash": "sha256-gaLX5akNsppWTRPw4Q+E8QxsjxMkMAU539wFdnI8i70=",
+        "lastModified": 1770869038,
+        "narHash": "sha256-uCrse82AQBAuJOoDN/wVxchq6AVHijHFLmr+GI+NDcE=",
         "owner": "rycee",
         "repo": "nur-expressions",
-        "rev": "27854a8a99d8ef77d0d6c70cf9c7f99f1a3e8d8f",
+        "rev": "3139fbe80cea19c245ccd70ddbfc9e73dd227805",
         "type": "gitlab"
       },
       "original": {
@@ -318,15 +318,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1770318660,
-        "narHash": "sha256-yFVde8QZK7Dc0Xa8eQDsmxLX4NJNfL1NKfctSyiQgMY=",
+        "lastModified": 1770260404,
+        "narHash": "sha256-3iVX1+7YUIt23hBx1WZsUllhbmP2EnXrV8tCRbLxHc8=",
         "owner": "nix-community",
         "repo": "home-manager",
-        "rev": "471e6a065f9efed51488d7c51a9abbd387df91b8",
+        "rev": "0d782ee42c86b196acff08acfbf41bb7d13eed5b",
         "type": "github"
       },
       "original": {
         "owner": "nix-community",
+        "ref": "release-25.11",
         "repo": "home-manager",
         "type": "github"
       }
@@ -407,11 +408,11 @@
         "nvchad-starter": "nvchad-starter"
       },
       "locked": {
-        "lastModified": 1770264905,
-        "narHash": "sha256-N3XezWrs/BDfZ4W6KsufuUNfA1qeAThcHzjsVEdhYp8=",
+        "lastModified": 1770889269,
+        "narHash": "sha256-ye+Bwek2MiIRmyrMnQvyDB8qawdHf09Ti2vQLqnz5Lo=",
         "owner": "nix-community",
         "repo": "nix4nvchad",
-        "rev": "e79fb5ab391c623dadbf6a8d376349a2542df929",
+        "rev": "a63b18d770ff98d2ead38f8d391d5fa76617bfa0",
         "type": "github"
       },
       "original": {
@@ -469,11 +470,11 @@
         "wayout": "wayout"
       },
       "locked": {
-        "lastModified": 1770268612,
-        "narHash": "sha256-CDDUomL26tPlUL70fUNG++RnUAcUfDtwocQXz5Aa9D4=",
+        "lastModified": 1770872716,
+        "narHash": "sha256-z3nb2HNyhjkJkbF8Xnh8ygSKXhz5VVzuCBYI8TO3ahI=",
         "owner": "ocf",
         "repo": "nix",
-        "rev": "d73e23864d78524318623a01f6f9988b592acbbb",
+        "rev": "c191190d144c751d8eaa97d44ac2e61ecec7e92d",
         "type": "github"
       },
       "original": {
