@@ -265,10 +265,10 @@
     enable = true;
     settings = {
       preload = [
-        "/home/b/bl/blakeh/remote/hyprland-home-manager/night_sky-Blake_Haug.png"
+        "/home/b/bl/blakeh/remote/cosmic-nix/kafu.png"
       ];
       wallpaper = [
-        ", /home/b/bl/blakeh/remote/hyprland-home-manager/night_sky-Blake_Haug.png"
+        ", /home/b/bl/blakeh/remote/cosmic-nix/kafu.png"
       ];
     };
   };
