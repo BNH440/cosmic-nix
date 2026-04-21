@@ -179,7 +179,7 @@
 
           settings = {
             "browser.startup.homepage" =
-              "http://printhost.ocf.berkeley.edu/jobs/|http://logjam/|http://papercut/|http://pagefault/|http://169.229.226.96";
+              "https://printhost.ocf.berkeley.edu/jobs/|http://logjam/|http://papercut/|http://pagefault/|http://fishpaper";
           };
 
           extensions.packages = with inputs.firefox-addons.packages.${pkgs.system}; [
